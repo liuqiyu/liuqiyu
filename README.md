@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-A new page
+New page
